@@ -153,12 +153,11 @@ if (!class_exists("tractis_auth"))
 			if (!$this_plugin) $this_plugin = plugin_basename(__FILE__);
 			
 			if ($file == $this_plugin ) {
-				echo "ZOOOOORRRRAAAAA";
 				$current = get_option('update_plugins');
 				if (!isset($current->response[$file])) return false;
 				
 				$columns = substr($wp_version, 0, 3) == "2.8" ? 3 : 5;
-				$url = "http://crm.negonation.com/info.txt";
+				$url = "http://svn.wp-plugins.org/tractis-certified-profiles/tags/".TRACTIS_AUTH_PLUGIN_REVISION."/info.txt";
 				$update = wp_remote_fopen($url);
 				echo '<td colspan="'.$columns.'">';
 				echo $update;
