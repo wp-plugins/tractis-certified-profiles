@@ -4,7 +4,7 @@ Donate link: https://www.tractis.com/
 Tags: certified profiles comments security
 Requires at least: 2.0.2
 Tested up to: 2.8
-Stable tag: 0.8
+Stable tag: 0.9
 
 Allow your users to proof their real identity in your blog using their electronic ID, and they will show a certified profile in their comments.
 
