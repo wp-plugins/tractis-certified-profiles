@@ -5,7 +5,7 @@
  Description: Allow your users to proof their real identity in your blog. Your users will be able to identify in your blog using their electronic ID and they will show a certified profile in their comments.
  Author: Tractis
  Author URI: https://www.tractis.com/identity_verifications
- Version: 0.9
+ Version: 1.0
  License: MIT
  */
 
