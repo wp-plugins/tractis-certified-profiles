@@ -17,15 +17,15 @@ msgstr ""
 
 #: views/profile.php:9
 msgid "User profile"
-msgstr "Perfil del usuario"
+msgstr "Perfil d'usuari"
 
 #: views/ui_settings.php:12
 msgid "Tractis Certified Profiles Settings"
-msgstr "Preferencias de los Perfiles Certificados por Tractis"
+msgstr "Preferències dels Perfils Certificats per Tractis"
 
 #: views/ui_settings.php:14
 msgid "Plugin setup"
-msgstr "Configuración del plugin"
+msgstr "Configuració del plugin"
 
 #: views/ui_settings.php:19
 msgid "Tractis API Key"
@@ -33,11 +33,11 @@ msgstr "Tractis API Key"
 
 #: views/ui_settings.php:23
 msgid "Get your API Key from Tractis"
-msgstr "Obtén tu API Key en Tractis"
+msgstr "Obtingui el seu API Key en Tractis"
 
 #: views/ui_settings.php:30
 msgid "Plugin Button"
-msgstr "Botón del plugin"
+msgstr "Botó del plugin"
 
 #: views/ui_settings.php:31
 msgid "Tractis Plugin Button"
@@ -45,22 +45,22 @@ msgstr "Botón del plugin de Tractis"
 
 #: views/ui_settings.php:51
 msgid "Discussion Settings"
-msgstr "Preferencias de discusión"
+msgstr "Preferències de discussió"
 
 #: views/ui_settings.php:55
 #: views/ui_settings.php:56
 msgid "Comment Aproval"
-msgstr "Aprobación de comentarios"
+msgstr "Aprovació de comentaris"
 
 #: views/ui_settings.php:57
 msgid "Comments from users with certified profiles will be automatically aprooved."
-msgstr "Los comentarios de usuarios con perfiles certificados serán aprobados automáticamente."
+msgstr "Els comentaris d'usuaris amb perfils certificats seran aprovats automàticament."
 
 #: views/ui_settings.php:59
 msgid "Comments from users with certified profiles will require aprooval according to the blog configuration."
-msgstr "Los comentarios de usuarios con perfiles certificados requerirán aprobación de acuerdo a la configturación del blog."
+msgstr "Els comentaris d'usuaris amb perfils certificats requereixin aprovació d'acord a la configuració del blog."
 
 #: views/ui_settings.php:64
 msgid "Update Settings"
-msgstr "Actualizar Preferencias"
+msgstr "Actualitzar Preferències"
 
