@@ -33,7 +33,7 @@ msgstr "Tractis API Key"
 
 #: views/ui_settings.php:23
 msgid "Get your API Key from Tractis"
-msgstr "Obtingui el seu API Key en Tractis"
+msgstr "Obtingui el seu API Key a Tractis"
 
 #: views/ui_settings.php:30
 msgid "Plugin Button"
@@ -41,7 +41,7 @@ msgstr "Botó del plugin"
 
 #: views/ui_settings.php:31
 msgid "Tractis Plugin Button"
-msgstr "Botón del plugin de Tractis"
+msgstr "Botó del plugin de Tractis"
 
 #: views/ui_settings.php:51
 msgid "Discussion Settings"
