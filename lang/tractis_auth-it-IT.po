@@ -17,50 +17,50 @@ msgstr ""
 
 #: views/profile.php:9
 msgid "User profile"
-msgstr "Perfil del usuario"
+msgstr "Profilo utente"
 
 #: views/ui_settings.php:12
 msgid "Tractis Certified Profiles Settings"
-msgstr "Preferencias de los Perfiles Certificados por Tractis"
+msgstr "Impostazioni dei profili certificati di Tractis"
 
 #: views/ui_settings.php:14
 msgid "Plugin setup"
-msgstr "Configuración del plugin"
+msgstr "Configurazione plugin"
 
 #: views/ui_settings.php:19
 msgid "Tractis API Key"
-msgstr "Tractis API Key"
+msgstr "Chiave API Tractis"
 
 #: views/ui_settings.php:23
 msgid "Get your API Key from Tractis"
-msgstr "Obtén tu API Key en Tractis"
+msgstr "Ottieni le chiavi Api dal Tractis"
 
 #: views/ui_settings.php:30
 msgid "Plugin Button"
-msgstr "Botón del plugin"
+msgstr "Pulsante del plugin"
 
 #: views/ui_settings.php:31
 msgid "Tractis Plugin Button"
-msgstr "Botón del plugin de Tractis"
+msgstr "Pulsante del plugin di Tractis"
 
 #: views/ui_settings.php:51
 msgid "Discussion Settings"
-msgstr "Preferencias de discusión"
+msgstr "Impostazioni discussione"
 
 #: views/ui_settings.php:55
 #: views/ui_settings.php:56
 msgid "Comment Aproval"
-msgstr "Aprobación de comentarios"
+msgstr "Commenti approvati"
 
 #: views/ui_settings.php:57
 msgid "Comments from users with certified profiles will be automatically aprooved."
-msgstr "Los comentarios de usuarios con perfiles certificados serán aprobados automáticamente."
+msgstr "I commenti dagli utenti con i profili certificati saranno automaticamente approvati."
 
 #: views/ui_settings.php:59
 msgid "Comments from users with certified profiles will require aprooval according to the blog configuration."
-msgstr "Los comentarios de usuarios con perfiles certificados requerirán aprobación de acuerdo a la configturación del blog."
+msgstr "I commenti dagli utenti con profili certificati sarà richiesto un accordo alla approvazione della configurazione del blog."
 
 #: views/ui_settings.php:64
 msgid "Update Settings"
-msgstr "Actualizar Preferencias"
+msgstr "Aggiorna Impostazioni"
 
